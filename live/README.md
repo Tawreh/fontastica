@@ -1,6 +1,4 @@
 # fontastica
-==========
-
 
 ## About Fontastica
 In design, typography is a hugely important factor. Choosing the right type for the design at hand can be very challenging. For some designers, it is as easy as "choosing free fonts"; for others, the task can be more daunting, especially if you're are not aware of the resources available. For designers who do not code, or for developers who do not design, it can be tricky to find fonts that will work well and look good.
