@@ -1,0 +1,206 @@
+[19-Nov-2012 05:42:53] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/tawreh/public_html/fontastica/alpha/application/controllers/fonts.php on line 37
+[19-Nov-2012 05:42:55] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/tawreh/public_html/fontastica/alpha/application/controllers/fonts.php on line 37
+[19-Nov-2012 05:42:56] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/tawreh/public_html/fontastica/alpha/application/controllers/fonts.php on line 37
+[19-Nov-2012 05:43:22] PHP Fatal error:  Class 'Fonts_model' not found in /home/tawreh/public_html/fontastica/alpha/system/core/Loader.php on line 303
+[19-Nov-2012 05:44:41] PHP Fatal error:  Call to a member function get_fonts() on a non-object in /home/tawreh/public_html/fontastica/alpha/application/controllers/fonts.php on line 24
+[19-Nov-2012 06:22:30] PHP Fatal error:  Call to a member function get_fonts() on a non-object in /home/tawreh/public_html/fontastica/alpha/application/controllers/fonts.php on line 13
+[19-Nov-2012 06:22:38] PHP Fatal error:  Call to a member function get_fonts() on a non-object in /home/tawreh/public_html/fontastica/alpha/application/controllers/fonts.php on line 13
+[19-Nov-2012 06:33:08] PHP Fatal error:  Call to undefined method Font_model::set_font() in /home/tawreh/public_html/fontastica/alpha/application/controllers/fonts.php on line 52
+[19-Nov-2012 11:02:17] PHP Parse error:  syntax error, unexpected '[', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/tawreh/public_html/fontastica/alpha/application/views/fonts/view.php on line 1
+[19-Nov-2012 11:33:03] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/tawreh/public_html/fontastica/alpha/application/views/scrape/index.php on line 4
+[19-Nov-2012 13:03:40] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/tawreh/public_html/fontastica/alpha/application/models/scrape_model.php on line 30
+[19-Nov-2012 13:11:43] PHP Fatal error:  Call to undefined method Font_model::data() in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 43
+[19-Nov-2012 13:12:07] PHP Fatal error:  Method name must be a string in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 43
+[19-Nov-2012 13:12:32] PHP Fatal error:  Function name must be a string in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 43
+[19-Nov-2012 13:12:33] PHP Fatal error:  Function name must be a string in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 43
+[19-Nov-2012 13:13:19] PHP Fatal error:  Call to undefined function  retrieve_list() in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 43
+[19-Nov-2012 13:13:27] PHP Fatal error:  Function name must be a string in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 44
+[19-Nov-2012 13:13:38] PHP Fatal error:  Function name must be a string in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 44
+[19-Nov-2012 13:14:26] PHP Fatal error:  Function name must be a string in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 44
+[19-Nov-2012 13:28:47] PHP Fatal error:  Function name must be a string in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 44
+[19-Nov-2012 13:38:58] PHP Fatal error:  Method name must be a string in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 43
+[19-Nov-2012 13:40:46] PHP Fatal error:  Call to undefined method Font_model::font() in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 45
+[19-Nov-2012 13:40:48] PHP Fatal error:  Call to undefined method Font_model::font() in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 45
+[19-Nov-2012 13:41:06] PHP Fatal error:  Function name must be a string in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 45
+[19-Nov-2012 13:41:30] PHP Fatal error:  Method name must be a string in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 45
+[19-Nov-2012 13:41:42] PHP Fatal error:  Call to undefined method Font_model::font() in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 48
+[19-Nov-2012 13:41:56] PHP Fatal error:  Function name must be a string in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 48
+[19-Nov-2012 13:42:16] PHP Fatal error:  Method name must be a string in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 45
+[19-Nov-2012 13:42:32] PHP Fatal error:  Function name must be a string in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 45
+[19-Nov-2012 13:42:42] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 45
+[19-Nov-2012 13:42:50] PHP Fatal error:  Call to undefined method Font_model::font() in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 48
+[20-Nov-2012 05:59:12] PHP Fatal error:  Cannot use [] for reading in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 61
+[20-Nov-2012 06:08:23] PHP Fatal error:  Call to undefined function  form_open() in /home/tawreh/public_html/fontastica/alpha/application/views/fonts/view.php on line 6
+[20-Nov-2012 06:09:20] PHP Fatal error:  Call to undefined function  form_open() in /home/tawreh/public_html/fontastica/alpha/application/views/fonts/view.php on line 6
+[20-Nov-2012 06:10:10] PHP Fatal error:  Call to undefined function  form_open() in /home/tawreh/public_html/fontastica/alpha/application/views/fonts/view.php on line 6
+[20-Nov-2012 06:14:04] PHP Fatal error:  Call to undefined function  form_open() in /home/tawreh/public_html/fontastica/alpha/application/views/fonts/view.php on line 6
+[20-Nov-2012 06:17:01] PHP Fatal error:  Call to undefined function  form_open() in /home/tawreh/public_html/fontastica/alpha/application/views/fonts/view.php on line 6
+[20-Nov-2012 06:17:11] PHP Fatal error:  Call to undefined function  form_open() in /home/tawreh/public_html/fontastica/alpha/application/views/fonts/view.php on line 6
+[20-Nov-2012 06:17:11] PHP Fatal error:  Call to undefined function  form_open() in /home/tawreh/public_html/fontastica/alpha/application/views/fonts/view.php on line 6
+[20-Nov-2012 07:04:04] PHP Parse error:  syntax error, unexpected '=' in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 71
+[23-Nov-2012 07:35:02] PHP Fatal error:  Class 'Rate_model' not found in /home/tawreh/public_html/fontastica/alpha/system/core/Loader.php on line 303
+[23-Nov-2012 07:49:42] PHP Parse error:  syntax error, unexpected ',' in /home/tawreh/public_html/fontastica/alpha/application/models/rate_model.php on line 47
+[23-Nov-2012 07:54:54] PHP Fatal error:  Cannot use [] for reading in /home/tawreh/public_html/fontastica/alpha/application/views/rate/index.php on line 7
+[23-Nov-2012 08:47:16] PHP Fatal error:  Cannot use [] for reading in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 61
+[23-Nov-2012 08:47:32] PHP Fatal error:  Cannot use [] for reading in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 74
+[23-Nov-2012 08:47:44] PHP Fatal error:  Function name must be a string in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 74
+[26-Nov-2012 05:22:14] PHP Fatal error:  Cannot use object of type Font_model as array in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 71
+[26-Nov-2012 05:29:14] PHP Fatal error:  Cannot use object of type CI_DB_mysql_result as array in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 86
+[26-Nov-2012 06:07:08] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 81
+[26-Nov-2012 06:07:11] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 81
+[26-Nov-2012 08:06:38] PHP Parse error:  syntax error, unexpected ')', expecting T_PAAMAYIM_NEKUDOTAYIM in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 103
+[26-Nov-2012 08:07:56] PHP Parse error:  syntax error, unexpected ')', expecting T_PAAMAYIM_NEKUDOTAYIM in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 103
+[26-Nov-2012 09:31:42] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/tawreh/public_html/fontastica/alpha/application/controllers/fonts.php on line 52
+[26-Nov-2012 09:31:50] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/tawreh/public_html/fontastica/alpha/application/controllers/fonts.php on line 52
+[26-Nov-2012 09:57:14] PHP Parse error:  syntax error, unexpected ')' in /home/tawreh/public_html/fontastica/alpha/application/controllers/fonts.php on line 46
+[26-Nov-2012 10:12:49] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 78
+[26-Nov-2012 10:13:05] PHP Parse error:  syntax error, unexpected '=' in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 78
+[26-Nov-2012 10:13:16] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 78
+[26-Nov-2012 10:13:30] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 81
+[26-Nov-2012 11:30:42] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/tawreh/public_html/fontastica/alpha/application/controllers/fonts.php on line 48
+[26-Nov-2012 11:31:12] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/tawreh/public_html/fontastica/alpha/application/controllers/fonts.php on line 48
+[27-Nov-2012 08:33:23] PHP Fatal error:  Call to undefined function  do_rate() in /home/tawreh/public_html/fontastica/alpha/application/controllers/rate.php on line 30
+[27-Nov-2012 09:13:47] PHP Fatal error:  Function name must be a string in /home/tawreh/public_html/fontastica/alpha/application/models/rate_model.php on line 75
+[27-Nov-2012 10:38:04] PHP Fatal error:  Function name must be a string in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 48
+[29-Nov-2012 08:11:11] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 44
+[29-Nov-2012 08:11:26] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 36
+[29-Nov-2012 08:12:03] PHP Parse error:  syntax error, unexpected ';' in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 44
+[29-Nov-2012 08:30:34] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 101
+[02-Dec-2012 09:41:38] PHP Fatal error:  Call to undefined method Font_model::set_fonts() in /home/tawreh/public_html/fontastica/alpha/application/controllers/fonts.php on line 40
+[02-Dec-2012 09:41:41] PHP Fatal error:  Call to undefined method Font_model::set_fonts() in /home/tawreh/public_html/fontastica/alpha/application/controllers/fonts.php on line 40
+[02-Dec-2012 09:42:59] PHP Parse error:  syntax error, unexpected '=' in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 86
+[02-Dec-2012 09:43:08] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 86
+[02-Dec-2012 10:56:04] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 151
+[02-Dec-2012 11:31:41] PHP Parse error:  syntax error, unexpected '<' in /home/tawreh/public_html/fontastica/alpha/application/views/fonts/tags.php on line 28
+[03-Dec-2012 06:28:46] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 147
+[03-Dec-2012 06:28:56] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 147
+[03-Dec-2012 06:29:18] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 148
+[03-Dec-2012 06:29:34] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting T_STRING or T_VARIABLE or '{' or '$' in /home/tawreh/public_html/fontastica/alpha/application/models/font_model.php on line 148
+[03-Dec-2012 06:30:55] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tawreh/public_html/fontastica/alpha/application/views/fonts/tags.php on line 26
+[04-Dec-2012 06:20:21] PHP Fatal error:  Call to undefined function  site_url() in /home/tawreh/public_html/fontastica/alpha/application/views/rate/index.php on line 1
+[04-Dec-2012 07:35:57] PHP Fatal error:  Call to undefined function  form_open() in /home/tawreh/public_html/fontastica/alpha/application/views/rate/sidebar.php on line 9
+[04-Dec-2012 07:52:44] PHP Parse error:  syntax error, unexpected '}' in /home/tawreh/public_html/fontastica/alpha/application/controllers/rate.php on line 106
+[05-Feb-2013 07:21:37] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 169
+[05-Feb-2013 07:22:31] PHP Fatal error:  Call to a member function get_where() on a non-object in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 143
+[05-Feb-2013 07:22:50] PHP Fatal error:  Call to a member function get_where() on a non-object in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 146
+[05-Feb-2013 07:51:14] PHP Fatal error:  Can't use method return value in write context in /home/tawreh/public_html/fontastica/beta/application/models/rate_model.php on line 32
+[08-Feb-2013 06:01:13] PHP Parse error:  syntax error, unexpected '?' in /home/tawreh/public_html/fontastica/beta/application/controllers/rate.php on line 58
+[08-Feb-2013 06:31:06] PHP Fatal error:  Cannot break/continue 1 level in /home/tawreh/public_html/fontastica/beta/application/controllers/fonts.php on line 66
+[08-Feb-2013 08:04:27] PHP Parse error:  syntax error, unexpected '{' in /home/tawreh/public_html/fontastica/beta/application/controllers/fonts.php on line 46
+[08-Feb-2013 09:20:41] PHP Fatal error:  Cannot use object of type CI_DB_mysql_result as array in /home/tawreh/public_html/fontastica/beta/application/models/rate_model.php on line 176
+[08-Feb-2013 09:28:23] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tawreh/public_html/fontastica/beta/application/models/rate_model.php on line 177
+[08-Feb-2013 09:28:47] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tawreh/public_html/fontastica/beta/application/models/rate_model.php on line 177
+[08-Feb-2013 10:10:44] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::num_rows() in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 153
+[09-Feb-2013 07:20:23] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 39
+[09-Feb-2013 07:22:14] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 39
+[09-Feb-2013 07:25:22] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 39
+[09-Feb-2013 07:25:45] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 39
+[09-Feb-2013 07:35:53] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::num_rows() in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 37
+[09-Feb-2013 07:36:23] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::num_rows() in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 38
+[09-Feb-2013 07:37:00] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 41
+[09-Feb-2013 07:38:03] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 38
+[09-Feb-2013 07:41:04] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 38
+[09-Feb-2013 07:50:28] PHP Fatal error:  Call to a member function limit() on a non-object in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 35
+[09-Feb-2013 07:50:36] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::limit() in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 35
+[09-Feb-2013 07:50:53] PHP Fatal error:  Call to a member function limit() on a non-object in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 34
+[09-Feb-2013 07:51:02] PHP Fatal error:  Call to a member function limit() on a non-object in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 34
+[09-Feb-2013 07:51:36] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 38
+[09-Feb-2013 07:52:59] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 38
+[09-Feb-2013 07:53:57] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 38
+[09-Feb-2013 07:56:19] PHP Fatal error:  Call to protected method CI_DB_active_record::_compile_select() from context 'Font_model' in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 36
+[09-Feb-2013 07:57:45] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 40
+[09-Feb-2013 07:58:16] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 40
+[09-Feb-2013 07:58:29] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 40
+[09-Feb-2013 08:01:00] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 158
+[09-Feb-2013 08:39:58] PHP Fatal error:  Call to a member function create_links() on a non-object in /home/tawreh/public_html/fontastica/beta/application/controllers/fonts.php on line 34
+[16-Feb-2013 06:13:00] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 52
+[16-Feb-2013 06:13:12] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::select() in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 49
+[16-Feb-2013 06:13:25] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::join() in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 49
+[16-Feb-2013 06:14:08] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 52
+[16-Feb-2013 06:15:44] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 57
+[16-Feb-2013 06:15:52] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::row_array() in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 57
+[16-Feb-2013 06:28:40] PHP Fatal error:  Cannot use [] for reading in /home/tawreh/public_html/fontastica/beta/application/views/pages/home.php on line 9
+[16-Feb-2013 08:13:18] PHP Fatal error:  Cannot use object of type CI_DB_mysql_result as array in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 91
+[16-Feb-2013 08:15:20] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 91
+[16-Feb-2013 08:15:33] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::order_by() in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 88
+[16-Feb-2013 08:15:49] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::order_by() in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 88
+[16-Feb-2013 08:16:10] PHP Fatal error:  Call to a member function order_by() on a non-object in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 88
+[16-Feb-2013 08:17:47] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 97
+[16-Feb-2013 08:19:26] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 89
+[16-Feb-2013 08:27:48] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 95
+[16-Feb-2013 08:29:52] PHP Fatal error:  Call to a member function get() on a non-object in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 96
+[16-Feb-2013 08:30:10] PHP Fatal error:  Call to a member function get() on a non-object in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 96
+[16-Feb-2013 08:45:20] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 100
+[17-Feb-2013 08:14:44] PHP Parse error:  syntax error, unexpected '.' in /home/tawreh/public_html/fontastica/beta/application/views/templates/header.php on line 24
+[17-Feb-2013 08:16:53] PHP Parse error:  syntax error, unexpected '{' in /home/tawreh/public_html/fontastica/beta/application/views/templates/header.php on line 21
+[17-Feb-2013 08:19:16] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/tawreh/public_html/fontastica/beta/application/views/templates/header.php on line 23
+[17-Feb-2013 08:34:15] PHP Fatal error:  Function name must be a string in /home/tawreh/public_html/fontastica/beta/application/views/templates/header.php on line 30
+[17-Feb-2013 09:31:30] PHP Fatal error:  Call to undefined method Rate_model::reverse_lookup() in /home/tawreh/public_html/fontastica/beta/application/controllers/rate.php on line 104
+[17-Feb-2013 09:32:14] PHP Fatal error:  Call to undefined method Rate_model::reverse_lookup() in /home/tawreh/public_html/fontastica/beta/application/controllers/rate.php on line 108
+[17-Feb-2013 09:41:26] PHP Parse error:  syntax error, unexpected $end in /home/tawreh/public_html/fontastica/beta/application/controllers/rate.php on line 108
+[17-Feb-2013 09:42:04] PHP Parse error:  syntax error, unexpected $end in /home/tawreh/public_html/fontastica/beta/application/controllers/rate.php on line 108
+[17-Feb-2013 11:21:15] PHP Fatal error:  Call to a member function helper() on a non-object in /home/tawreh/public_html/fontastica/beta/application/views/templates/search.php on line 3
+[17-Feb-2013 11:21:59] PHP Fatal error:  Call to a member function helper() on a non-object in /home/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[17-Feb-2013 11:22:35] PHP Fatal error:  Call to a member function helper() on a non-object in /home/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[17-Feb-2013 11:22:57] PHP Fatal error:  Call to a member function helper() on a non-object in /home/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[17-Feb-2013 11:24:46] PHP Fatal error:  Call to a member function helper() on a non-object in /home/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[17-Feb-2013 11:25:08] PHP Fatal error:  Call to undefined function  form_open() in /home/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 5
+[17-Feb-2013 11:26:58] PHP Fatal error:  Call to undefined method Font_model::get_like() in /home/tawreh/public_html/fontastica/beta/application/controllers/pages.php on line 34
+[17-Feb-2013 11:28:08] PHP Fatal error:  Call to undefined function  length() in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 48
+[17-Feb-2013 11:28:30] PHP Fatal error:  Call to undefined function  strlength() in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 48
+[17-Feb-2013 11:28:32] PHP Fatal error:  Call to undefined function  strlength() in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 48
+[17-Feb-2013 11:31:53] PHP Fatal error:  Call to a member function view() on a non-object in /home/tawreh/public_html/fontastica/beta/application/controllers/pages.php on line 36
+[18-Feb-2013 05:08:29] PHP Parse error:  syntax error, unexpected ';' in /home/tawreh/public_html/fontastica/beta/application/controllers/pages.php on line 33
+[18-Feb-2013 05:18:47] PHP Fatal error:  Call to a member function helper() on a non-object in /home/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[18-Feb-2013 05:19:31] PHP Fatal error:  Call to undefined function  form_open() in /home/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[18-Feb-2013 05:19:31] PHP Fatal error:  Call to undefined function  form_open() in /home/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[18-Feb-2013 05:50:19] PHP Fatal error:  Call to undefined method Font_model::randomizer() in /home/tawreh/public_html/fontastica/beta/application/controllers/search.php on line 19
+[18-Feb-2013 05:50:39] PHP Fatal error:  Call to undefined method Rate_model::randomizer() in /home/tawreh/public_html/fontastica/beta/application/controllers/search.php on line 19
+[18-Feb-2013 05:51:34] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tawreh/public_html/fontastica/beta/application/views/search/search_results.php on line 13
+[18-Feb-2013 06:22:23] PHP Fatal error:  Call to undefined function  length() in /home/tawreh/public_html/fontastica/beta/application/views/search/search_results.php on line 4
+[19-Feb-2013 05:52:26] PHP Fatal error:  Call to undefined function  form_open() in /home/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[19-Feb-2013 05:52:26] PHP Fatal error:  Call to undefined function  form_open() in /home/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[19-Feb-2013 05:52:52] PHP Fatal error:  Call to undefined function  form_open() in /home/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[19-Feb-2013 05:52:55] PHP Fatal error:  Call to undefined function  form_open() in /home/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[19-Feb-2013 05:55:24] PHP Fatal error:  Call to undefined function  form_open() in /home/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[19-Feb-2013 05:56:32] PHP Fatal error:  Call to undefined function  form_open() in /home/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[19-Feb-2013 05:56:33] PHP Fatal error:  Call to undefined function  form_open() in /home/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[19-Feb-2013 05:56:51] PHP Fatal error:  Call to undefined function  form_open() in /home/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[19-Feb-2013 05:59:01] PHP Fatal error:  Call to undefined function  form_open() in /home/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[19-Feb-2013 06:55:29] PHP Fatal error:  Call to undefined function  form_open() in /home/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[19-Feb-2013 06:58:20] PHP Fatal error:  Call to undefined function  form_open() in /home/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[19-Feb-2013 07:00:33] PHP Fatal error:  Call to undefined function  form_open() in /home/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[19-Feb-2013 07:04:29] PHP Fatal error:  Call to undefined function  form_open() in /home/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[19-Feb-2013 07:04:32] PHP Fatal error:  Call to undefined function  form_open() in /home/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[19-Feb-2013 07:05:46] PHP Fatal error:  Call to undefined function  form_open() in /home/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[19-Feb-2013 07:16:41] PHP Fatal error:  Call to undefined method Blogs_model::add_blog() in /home/tawreh/public_html/fontastica/beta/application/controllers/blogs.php on line 64
+[19-Feb-2013 07:21:21] PHP Parse error:  syntax error, unexpected ';' in /home/tawreh/public_html/fontastica/beta/application/models/blogs_model.php on line 38
+[19-Feb-2013 07:21:33] PHP Fatal error:  Can't use method return value in write context in /home/tawreh/public_html/fontastica/beta/application/models/blogs_model.php on line 39
+[19-Feb-2013 07:21:54] PHP Fatal error:  Can't use method return value in write context in /home/tawreh/public_html/fontastica/beta/application/models/blogs_model.php on line 39
+[19-Feb-2013 07:21:55] PHP Fatal error:  Can't use method return value in write context in /home/tawreh/public_html/fontastica/beta/application/models/blogs_model.php on line 39
+[19-Feb-2013 07:39:33] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::order_by() in /home/tawreh/public_html/fontastica/beta/application/models/blogs_model.php on line 25
+[19-Feb-2013 07:40:17] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::order_by() in /home/tawreh/public_html/fontastica/beta/application/models/blogs_model.php on line 24
+[19-Feb-2013 07:40:49] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::order_by() in /home/tawreh/public_html/fontastica/beta/application/models/blogs_model.php on line 24
+[19-Feb-2013 07:42:38] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/tawreh/public_html/fontastica/beta/application/models/blogs_model.php on line 29
+[19-Feb-2013 07:42:47] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result() in /home/tawreh/public_html/fontastica/beta/application/models/blogs_model.php on line 29
+[19-Feb-2013 07:58:20] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::limit() in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 280
+[05-Mar-2013 07:30:03] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 125
+[16-Mar-2013 08:40:05] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tawreh/public_html/fontastica/beta/application/views/fonts/index.php on line 8
+[16-Mar-2013 08:40:13] PHP Fatal error:  Function name must be a string in /home/tawreh/public_html/fontastica/beta/application/models/font_model.php on line 115
+[18-Mar-2013 06:48:29] PHP Parse error:  syntax error, unexpected T_ECHO in /home/tawreh/public_html/fontastica/beta/application/views/pages/stats.php on line 7
+[18-Mar-2013 07:00:43] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/tawreh/public_html/fontastica/beta/application/views/pages/stats.php on line 6
+[18-Mar-2013 07:02:49] PHP Parse error:  syntax error, unexpected '{' in /home/tawreh/public_html/fontastica/beta/application/views/templates/styles.php on line 40
+[18-Mar-2013 07:04:14] PHP Fatal error:  Cannot use [] for reading in /home/tawreh/public_html/fontastica/beta/application/views/templates/styles.php on line 41
+[18-Mar-2013 07:04:14] PHP Fatal error:  Cannot use [] for reading in /home/tawreh/public_html/fontastica/beta/application/views/templates/styles.php on line 41
+[18-Mar-2013 07:04:14] PHP Fatal error:  Cannot use [] for reading in /home/tawreh/public_html/fontastica/beta/application/views/templates/styles.php on line 41
+[09-Apr-2013 14:25:10] PHP Fatal error:  Call to undefined function  form_open() in /home/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[12-Sep-2013 04:50:03] PHP Fatal error:  Call to undefined function  form_open() in /home2/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[12-Sep-2013 04:50:03] PHP Fatal error:  Call to undefined function  form_open() in /home2/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[12-Sep-2013 04:50:04] PHP Fatal error:  Call to undefined function  form_open() in /home2/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[19-Sep-2013 14:33:48] PHP Fatal error:  Call to undefined function  form_open() in /home2/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[01-Oct-2013 17:22:02] PHP Fatal error:  Call to undefined function  form_open() in /home2/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[15-Oct-2013 02:30:11] PHP Fatal error:  Call to undefined function  form_open() in /home2/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[15-Oct-2013 02:30:11] PHP Fatal error:  Call to undefined function  form_open() in /home2/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[20-Nov-2013 22:39:28] PHP Fatal error:  Call to undefined function  form_open() in /home2/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[21-Nov-2013 22:49:13] PHP Fatal error:  Call to undefined function  form_open() in /home2/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3
+[25-Nov-2013 15:25:38] PHP Fatal error:  Call to undefined function  form_open() in /home2/tawreh/public_html/fontastica/beta/application/views/templates/searchform.php on line 3

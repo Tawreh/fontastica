@@ -41,12 +41,28 @@
 // $route['default_controller'] = "welcome";
 // $route['404_override'] = '';
 
-$route['news/create'] = 'news/create';
-$route['news/(:any)'] = 'news/view/$1';
-$route['news'] = 'news';
-$route['scrape'] = 'scrape/view';
+$route['rate']                        = 'rate';
+$route['rate/faceoff/(:any)/(:any)']  = 'rate/dual_view/$1/$2';
+$route['rate/1/(:num)']               = 'rate/view/$1';
+$route['rate/2/(:num)']               = 'rate/view/$1';
+$route['rate/(:any)']                 = 'rate/view/$1';
+
+$route['fonts/by/(:any)/(:num)'] = 'fonts/index/$1';
+$route['fonts/by/(:any)']        = 'fonts/index/$1';
+$route['fonts/(:num)']           = 'fonts/index';
+$route['fonts/(:any)/(:any)']    = 'fonts/view/$1/$2';
+$route['fonts/(:any)']           = 'fonts/view/$1';
+$route['fonts/create']           = 'fonts/create';
+$route['fonts']                  = 'fonts';
+
+$route['search'] = 'search/view';
+
+$route['blog/create'] = 'blogs/create';
+$route['blog/(:any)'] = 'blogs/view/$1';
+$route['blog']        = 'blogs/index';
+
 $route['default_controller'] = 'pages/view';
-$route['(:any)'] = 'pages/view/$1';
+$route['(:any)']             = 'pages/view/$1';
 
 
 /* End of file routes.php */

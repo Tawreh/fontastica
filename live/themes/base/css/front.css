@@ -1,0 +1,107 @@
+/* ==========================================================================
+   HTML5 Boilerplate styles - h5bp.com (generated via initializr.com)
+   ========================================================================== */
+
+html,
+button,
+input,
+select,
+textarea {
+    color: #E5E5E5;
+}
+
+body {
+    background: url("../assets/background.png") repeat fixed left top #1B1B1B;
+    font-size: 1.5em;
+    line-height: 1.4;
+}
+
+::-moz-selection {
+    background: rgba(91, 172, 216, 0.5);
+    text-shadow: none;
+}
+
+::selection {
+    background: rgba(91, 172, 216, 0.5);
+    text-shadow: none;
+}
+
+img {
+    vertical-align: middle;
+}
+
+a:link, a:visited {
+    color: #5BACD8;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:focus, a:active {
+    outline: 1px dotted #5BACD8;
+}
+
+.wrap {
+    height: 100%;
+    padding-top: 10%;
+    text-align: center;
+    vertical-align: middle;
+    width: 100%;
+}
+
+.tagline {
+    margin: -25px 0 0 180px;
+    font-size: 0.9em;
+    font-style: italic;
+}
+
+h1 {
+    font-size: 1.2em;
+    margin: 2em 0 0;
+}
+
+#footer {
+    bottom: 0;
+    display: block;
+    font-size: 0.7em;
+    margin: 0 auto;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
+
+/* media querieeees */ 
+@media screen and (max-width: 500px) {
+	
+	header, nav, 
+	.wrap, .wrap img,
+    nav li,
+	#footer, #footer > .inside {
+		width: 98%;
+		padding: 1%;
+		min-width: 0;
+    }
+    
+    nav > ul > li {
+        clear: left;
+        display: block;
+		margin: 0;
+	}
+    
+    h1 {
+        margin-top: 20px;
+    }
+	
+	header, nav, 
+	#footer > .inside {
+		text-align: center;
+	}
+	
+	.tagline {
+		display: block;
+		margin: 0;
+		padding: 0;
+		font-size: smaller;
+	}
+}

@@ -1,0 +1,5 @@
+<h1>Credits</h1>
+<p>If you come across any errors (such as <a href="/dfkjghkdjfg">this one</a>) and take the time to read the error message, you'll notice that the quotes are from <a href="http://www.imdb.com/title/tt0303461/">Firefly</a>.</p>
+<p>The demo text is from the <a href="http://www.gutenberg.org/wiki/Main_Page">Gutenburg project</a>. I discovered it through my favourite Lorem Ipsum generator, <a href="http://fillerati.com">Fillerati</a>, so I feel they deserve a shoutout too!</p>
+<p>All of the fonts on the site at the moment are pulled from <a href="http://www.google.com/webfonts">Google Web Fonts</a>.</p>
+<p>Otherwise, all'a this was built from scratch using <a href="http://ellislab.com/codeigniter">CodeIgniter</a> by <a href="http://herbal-jazz.net/">Sophie Shanahan-Kluth</a>, who you can <a href="http://twitter.com/Tawreh">follow on Twitter</a> if you prefer.</p>
